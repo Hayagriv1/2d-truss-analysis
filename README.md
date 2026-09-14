@@ -42,8 +42,6 @@ pip install numpy pandas matplotlib pillow calfem-python
 
 Open `CMD.ipynb` in Jupyter and run all cells top to bottom.
 
-> Note: the first cell loads a local image (`Question3.jpg`) for reference — update the file path or skip that cell if you don't have the image.
-
 ## Output
 
 - Displacement table for all 12 nodes
